@@ -11,7 +11,7 @@ This repository contains the code used for the analyses presented in the PLOS ON
 - `Bootstrapping_DCA_cal_combined.ipynb`: bootstrap analysis, calibration assessment, and decision curve analysis
 
 ## Requirements
-- Python 3.x
+- Python 3.3
 - Jupyter Notebook
 - MATLAB
 - Python packages listed in `requirements.txt`
